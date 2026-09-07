@@ -1,0 +1,5 @@
+Demo checklist:
+1. Compile: g++ -std=c++17 main.cpp -o movie_booking
+2. Run: ./movie_booking
+3. Take a screenshot of the output for the GitHub README if desired.
+4. Push all project files to a PUBLIC GitHub repository.
